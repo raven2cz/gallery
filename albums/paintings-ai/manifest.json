@@ -1,0 +1,136 @@
+{
+    "title": "AI Paintings",
+    "description": "A collection of AI-assisted artworks and digital paintings.",
+    "images": [
+        {
+            "filename": "elephant.png",
+            "title": "Elephant",
+            "description": "Majestic elephant art."
+        },
+        {
+            "filename": "fox-dreaming.png",
+            "title": "Fox Dreaming",
+            "description": "Surreal fox illustration."
+        },
+        {
+            "filename": "horse.png",
+            "title": "Horse",
+            "description": "Galloping horse."
+        },
+        {
+            "filename": "in-the-forest-1.png",
+            "title": "In The Forest I",
+            "description": "Mystical forest scene."
+        },
+        {
+            "filename": "in-the-forest-2.png",
+            "title": "In The Forest II",
+            "description": "Deep woods exploration."
+        },
+        {
+            "filename": "in-the-forest-dream.png",
+            "title": "Forest Dream",
+            "description": "Dreamlike woodland atmosphere."
+        },
+        {
+            "filename": "leon.png",
+            "title": "Leon",
+            "description": "Portrait of Leon."
+        },
+        {
+            "filename": "my-living-art.png",
+            "title": "Living Art",
+            "description": "Art coming to life."
+        },
+        {
+            "filename": "painting-human-ai.jpg",
+            "title": "Human & AI",
+            "description": "Collaboration between man and machine."
+        },
+        {
+            "filename": "panda.png",
+            "title": "Panda",
+            "description": "Cute panda illustration."
+        },
+        {
+            "filename": "panther.png",
+            "title": "Panther",
+            "description": "Sleek black panther."
+        },
+        {
+            "filename": "river-and-road.png",
+            "title": "River and Road",
+            "description": "Scenic route alongside water."
+        },
+        {
+            "filename": "squirrel-music.png",
+            "title": "Musical Squirrel",
+            "description": "Whimsical squirrel playing music."
+        },
+        {
+            "filename": "squirrel-music-video.mp4",
+            "title": "Musical Squirrel - Live",
+            "description": "Animation of the musical squirrel."
+        },
+        {
+            "filename": "squirrel.jpg",
+            "title": "Squirrel",
+            "description": "Realistic squirrel portrait."
+        },
+        {
+            "filename": "sunset.png",
+            "title": "Sunset",
+            "description": "Vibrant sunset horizon."
+        },
+        {
+            "filename": "gepard.png",
+            "title": "Gepard",
+            "description": "Fierce leopard gaze."
+        },
+        {
+            "filename": "gepard-video.mp4",
+            "title": "Gepard Motion",
+            "description": "Animated movement study."
+        },
+        {
+            "filename": "tomasek.png",
+            "title": "Tomasek",
+            "description": "Portrait of Tomasek."
+        },
+        {
+            "filename": "waterfall-dream.png",
+            "title": "Waterfall Dream",
+            "description": "Fantasy waterfall."
+        },
+        {
+            "filename": "waterfall.png",
+            "title": "Waterfall",
+            "description": "Cascading water scene."
+        },
+        {
+            "filename": "white-tiger.png",
+            "title": "White Tiger",
+            "description": "Rare white tiger."
+        },
+        {
+            "filename": "winter-forest-1.png",
+            "title": "Winter Forest I",
+            "description": "Snowy forest landscape."
+        },
+        {
+            "filename": "winter-forest-2.png",
+            "title": "Winter Forest II",
+            "description": "Frozen wilderness."
+        },
+        {
+            "filename": "winter-forest-3.png",
+            "title": "Winter Forest III",
+            "description": "Winter wonderland."
+        },
+        {
+            "filename": "woman-with-pearl.png",
+            "title": "Woman with Pearl",
+            "description": "Classic art reimagined."
+        }
+    ]
+}

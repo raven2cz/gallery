@@ -1,0 +1,16 @@
+{
+    "title": "Digital Dreams",
+    "description": "A collection of AI-generated landscapes and abstract forms.",
+    "images": [
+        {
+            "filename": "mountain.webp",
+            "title": "Neon Peaks",
+            "description": "Cyberpunk mountain range."
+        },
+        {
+            "filename": "cover.webp",
+            "title": "Abstract Flow",
+            "description": "Fluid dynamics visualization."
+        }
+    ]
+}

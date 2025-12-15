@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art Gallery 2026</title>
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <header class="app-header">
+            <h1 id="site-title">Art Gallery</h1>
+            <nav id="breadcrumbs" class="hidden"></nav>
+        </header>
+
+        <main id="content-area">
+            <!-- Dynamic Content: Album List or Image Grid -->
+        </main>
+
+        <div id="lightbox" class="lightbox hidden">
+            <button id="lightbox-close" class="lightbox-btn close" aria-label="Close">&times;</button>
+            <button id="lightbox-prev" class="lightbox-btn prev" aria-label="Previous">&lsaquo;</button>
+            <div class="lightbox-content">
+                <img id="lightbox-img" src="" alt="Full view">
+                <div class="lightbox-info">
+                    <h2 id="lightbox-title"></h2>
+                    <p id="lightbox-desc"></p>
+                </div>
+            </div>
+            <button id="lightbox-next" class="lightbox-btn next" aria-label="Next">&rsaquo;</button>
+        </div>
+    </div>
+
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>

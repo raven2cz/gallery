@@ -1,0 +1,17 @@
+{
+    "siteTitle": "Art Gallery 2026",
+    "albums": [
+        {
+            "id": "sample",
+            "path": "albums/sample",
+            "title": "Digital Dreams",
+            "cover": "cover.webp"
+        },
+        {
+            "id": "paintings-ai",
+            "path": "albums/paintings-ai",
+            "title": "AI Paintings",
+            "cover": "woman-with-pearl.png"
+        }
+    ]
+}
