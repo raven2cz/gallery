@@ -1,0 +1,31 @@
+{
+    "title": "Awesome",
+    "description": "A collection of awesome images and a video.",
+    "images": [
+        {
+            "filename": "awesome-dark.jpg",
+            "title": "Awesome Dark",
+            "description": ""
+        },
+        {
+            "filename": "awesome-fallout.jpg",
+            "title": "Awesome Fallout",
+            "description": ""
+        },
+        {
+            "filename": "awesome-light.jpg",
+            "title": "Awesome Light",
+            "description": ""
+        },
+        {
+            "filename": "somewm.jpg",
+            "title": "Somewm",
+            "description": ""
+        },
+        {
+            "filename": "awesome.mp4",
+            "title": "Awesome Video",
+            "description": ""
+        }
+    ]
+}

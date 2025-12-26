@@ -12,6 +12,12 @@
             "path": "albums/paintings-ai",
             "title": "AI Paintings",
             "cover": "woman-with-pearl.png"
+        },
+        {
+            "id": "awesome",
+            "path": "albums/awesome",
+            "title": "Awesome",
+            "cover": "awesome-dark.jpg"
         }
     ]
 }
