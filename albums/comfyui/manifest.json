@@ -1,0 +1,11 @@
+{
+    "title": "ComfyUI Experiments",
+    "description": "AI generation workflows and results.",
+    "images": [
+        {
+            "filename": "avatar_SVI_final_32fps.webm",
+            "title": "SVI 2.0 Avatar",
+            "description": "avatar v SVI 2.0 Pro s Wan 2.2 a SmoothMix"
+        }
+    ]
+}

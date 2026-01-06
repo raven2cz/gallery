@@ -18,6 +18,12 @@
             "path": "albums/awesome",
             "title": "Awesome",
             "cover": "awesome-dark.jpg"
+        },
+        {
+            "id": "comfyui",
+            "path": "albums/comfyui",
+            "title": "ComfyUI",
+            "cover": "cover.svg"
         }
     ]
 }
