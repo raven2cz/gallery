@@ -1,0 +1,16 @@
+{
+    "title": "Forge Neo Gallery",
+    "description": "Experiments with Forge Neo generation.",
+    "images": [
+        {
+            "filename": "Woman_Poses_in_Emerald_Dress.png",
+            "title": "Emerald Dress (Image)",
+            "description": "Generated Image"
+        },
+        {
+            "filename": "Woman_Poses_in_Emerald_Dress.mp4",
+            "title": "Emerald Dress (Video)",
+            "description": "Video generation based on the image."
+        }
+    ]
+}

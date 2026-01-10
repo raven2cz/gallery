@@ -24,6 +24,12 @@
             "path": "albums/comfyui",
             "title": "ComfyUI",
             "cover": "cover.svg"
+        },
+        {
+            "id": "forge",
+            "path": "albums/forge",
+            "title": "Forge Neo",
+            "cover": "Woman_Poses_in_Emerald_Dress.png"
         }
     ]
 }
